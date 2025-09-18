@@ -97,3 +97,8 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Project/MoneySaver/obj
+Project/MoneySaver/Temp
+Project/MoneySaver/Library/APIUpdater/ConfigurationCache
+Project/MoneySaver/Library/Bee/CachedNodeOutput
+Project/MoneySaver/Library/PackageCache
